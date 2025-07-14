@@ -1,0 +1,1 @@
+import{wa as t}from"./chunk-VJGAG444.js";var n=class e{static \u0275fac=function(o){return new(o||e)};static \u0275cmp=t({type:e,selectors:[["app-home"]],decls:0,vars:0,template:function(o,s){},encapsulation:2})};export{n as Home};
