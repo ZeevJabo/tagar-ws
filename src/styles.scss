@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  margin: unset;
+  padding: unset;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+a {
+  color: dodgerblue;
+  text-decoration: none;
+}
